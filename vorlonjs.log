@@ -1,0 +1,101 @@
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-24T21:49:43.811Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:49:44.262Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-24T21:49:44.263Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:07.617Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:07.617Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:08.416Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:08.417Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:08.945Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:08.945Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:09.266Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:50:09.266Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket 0dkzpuUGqEsgxy6uAAAA ","timestamp":"2015-06-24T21:53:44.470Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-24T21:53:44.689Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard d3ef37ba-0b08-4c5d-a585-154fe469cb3e","timestamp":"2015-06-24T21:53:45.003Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-24T21:53:45.003Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket KXvF2uI2EJiLxOm2AAAC ","timestamp":"2015-06-24T22:58:24.915Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:17:34.200Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 9e5e4a49-9855-4e41-a7ae-e2a49600b146","timestamp":"2015-06-25T15:17:34.395Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:17:34.395Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:17:47.341Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket 1K2nxQdzdLGVqhsDAAAE ","timestamp":"2015-06-25T15:17:47.445Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:17:47.547Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:17:47.547Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket pbLa7_8wQ6yMPNJfAAAG ","timestamp":"2015-06-25T15:17:49.581Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:17:49.612Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:17:49.701Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:17:49.701Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket Fbd00ICFqmeRuY8YAAAI ","timestamp":"2015-06-25T15:26:41.049Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:26:41.084Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 9e5e4a49-9855-4e41-a7ae-e2a49600b146","timestamp":"2015-06-25T15:26:41.171Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:26:41.171Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket HKRDiOIg4iZqVTeoAAAL ","timestamp":"2015-06-25T15:26:41.377Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:26:43.473Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:26:43.778Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:26:43.955Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:26:43.956Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket BjqMHaH7QEk8R_qBAAAM ","timestamp":"2015-06-25T15:27:33.694Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:27:33.718Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:33.813Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:27:33.813Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:37.455Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:37.455Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:38.300Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:38.300Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:38.484Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:27:38.485Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket Tv2a-0g5Xmik9-pqAAAO ","timestamp":"2015-06-25T15:28:45.339Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:28:45.491Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:45.563Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:28:45.563Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:46.863Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:46.863Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:47.335Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:47.335Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:47.693Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:47.693Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:47.879Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:28:47.879Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket VabF7fa1DB_KMFr-AAAQ ","timestamp":"2015-06-25T15:29:43.433Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:29:43.479Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:29:43.555Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:29:43.556Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket IT7EZBU3YBdLXKVkAAAS ","timestamp":"2015-06-25T15:30:54.141Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:30:54.188Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:30:54.312Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:30:54.312Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket TaXV7D-HUlmlkePbAAAU ","timestamp":"2015-06-25T15:30:54.997Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:30:55.049Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:30:55.119Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:30:55.119Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:30:55.958Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:30:55.958Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:30:56.294Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:30:56.294Z"}
+{"level":"info","message":"   DASHBOARD  : default Identify clients 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:31:33.517Z"}
+{"level":"error","message":"  DASHBOARD  : default  No client to identify... 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:31:33.517Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket HqrA-1FzXXJeoJmJAAAW ","timestamp":"2015-06-25T15:31:35.236Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:31:35.284Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:31:35.364Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:31:35.364Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket W0CzBZnGSDv-CcXoAAAY ","timestamp":"2015-06-25T15:31:37.539Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:31:37.594Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:31:37.660Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:31:37.660Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket ViMnfEdj5BLdFDVhAAAa ","timestamp":"2015-06-25T15:35:20.683Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:35:20.855Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:35:20.909Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:35:20.909Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket 2RT6cQc93ZuASJzXAAAe ","timestamp":"2015-06-25T15:35:21.814Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:35:21.881Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:35:21.949Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:35:21.949Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket by0SHXSt25TIvwbXAAAg ","timestamp":"2015-06-25T15:35:22.531Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:35:22.579Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:35:22.663Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:35:22.663Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket OtuuTKsGj7MiTxQPAAAi ","timestamp":"2015-06-25T15:35:25.948Z"}
+{"type":"API","session":"default","level":"warn","message":"   API : No client in session default","timestamp":"2015-06-25T15:35:26.202Z"}
+{"level":"info","message":"   DASHBOARD  : default New Dashboard 09d4311c-dedb-430d-b6d7-481c1450b6c5","timestamp":"2015-06-25T15:35:26.263Z"}
+{"level":"info","message":"   DASHBOARD  : No client selected for this dashboard ","timestamp":"2015-06-25T15:35:26.263Z"}
+{"level":"info","message":"   DASHBOARD  : Delete dashboard default socket kM14a3YjJwAP5C_xAAAk ","timestamp":"2015-06-25T18:29:44.369Z"}

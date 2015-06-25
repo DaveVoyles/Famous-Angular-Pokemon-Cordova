@@ -1,0 +1,225 @@
+2015-06-24 16:33:09.669 FAPokemon[40739:2729623] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/2538AC61-2563-404E-A516-A4F7ED24CC78/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:33:09.902 FAPokemon[40739:2729623] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:33:09.902 FAPokemon[40739:2729623] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:33:09.915 FAPokemon[40739:2729623] Unlimited access to network resources
+2015-06-24 16:33:09.923 FAPokemon[40739:2729623] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 16:33:10.544 FAPokemon[40739:2729623] Resetting plugins due to page load.
+2015-06-24 16:33:10.659 FAPokemon[40739:2729623] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/44923FA1-A488-4194-B874-329CAC0D04E0/FAPokemon.app/www/index.html
+2015-06-24 17:24:28.879 FAPokemon[41791:2772371] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/EAD00D43-DA7C-40CF-9450-879B39B4FF29/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:24:29.113 FAPokemon[41791:2772371] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:24:29.114 FAPokemon[41791:2772371] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:24:29.117 FAPokemon[41791:2772371] Unlimited access to network resources
+2015-06-24 17:24:29.133 FAPokemon[41791:2772371] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 17:24:29.412 FAPokemon[41791:2772371] Resetting plugins due to page load.
+2015-06-24 17:24:29.623 FAPokemon[41791:2772371] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/53E5DF77-D574-4558-A9C2-23FD8B6AC4DE/FAPokemon.app/www/index.html#/
+2015-06-24 17:25:40.299 FAPokemon[42107:2773750] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/541E2F03-57FE-45A0-8034-3CD2900FA3E7/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:25:40.389 FAPokemon[42107:2773750] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:25:40.390 FAPokemon[42107:2773750] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:25:40.391 FAPokemon[42107:2773750] Unlimited access to network resources
+2015-06-24 17:25:40.393 FAPokemon[42107:2773750] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 17:25:40.502 FAPokemon[42107:2773750] Resetting plugins due to page load.
+2015-06-24 17:25:40.626 FAPokemon[42107:2773750] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/3BB7EBAC-6C4A-4FBB-A71A-020FC24B5CE4/FAPokemon.app/www/index.html#/
+2015-06-24 17:49:40.605 FAPokemon[43136:2785555] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/D24D3936-C423-4247-8072-8A6393E09CE0/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:49:40.904 FAPokemon[43136:2785555] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:49:40.904 FAPokemon[43136:2785555] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:49:40.917 FAPokemon[43136:2785555] Unlimited access to network resources
+2015-06-24 17:49:40.936 FAPokemon[43136:2785555] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 17:49:41.451 FAPokemon[43136:2785555] Resetting plugins due to page load.
+2015-06-24 17:49:41.684 FAPokemon[43136:2785555] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/358048EC-BDEB-4685-BDD7-9D547E6AD84B/FAPokemon.app/www/index.html#/
+2015-06-25 10:56:07.130 FAPokemon[47095:3191596] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/60ED2710-7219-4D82-BB7E-FC936E28D6CA/Library/Cookies/Cookies.binarycookies
+2015-06-25 10:56:07.225 FAPokemon[47095:3191596] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 10:56:07.225 FAPokemon[47095:3191596] Multi-tasking -> Device: YES, App: YES
+2015-06-25 10:56:07.226 FAPokemon[47095:3191596] Unlimited access to network resources
+2015-06-25 10:56:07.228 FAPokemon[47095:3191596] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 10:56:07.374 FAPokemon[47095:3191596] Resetting plugins due to page load.
+2015-06-25 10:56:07.512 FAPokemon[47095:3191596] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/CE6411C2-E090-4074-8AFE-AE03F5CD4D88/FAPokemon.app/www/index.html#/
+2015-06-25 10:59:57.653 FAPokemon[47675:3194935] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/9DC37F5D-B8F5-4DD5-AC13-093F695AEDB9/Library/Cookies/Cookies.binarycookies
+2015-06-25 10:59:57.781 FAPokemon[47675:3194935] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 10:59:57.781 FAPokemon[47675:3194935] Multi-tasking -> Device: YES, App: YES
+2015-06-25 10:59:57.783 FAPokemon[47675:3194935] Unlimited access to network resources
+2015-06-25 10:59:57.785 FAPokemon[47675:3194935] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 10:59:57.919 FAPokemon[47675:3194935] Resetting plugins due to page load.
+2015-06-25 10:59:58.050 FAPokemon[47675:3194935] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/51376E38-3BF3-430F-8BDB-A38E72F8EF4B/FAPokemon.app/www/index.html#/
+2015-06-25 11:09:19.359 FAPokemon[48269:3200867] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/92FD2308-FFFC-4EAB-BB47-15C02D0BD546/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:09:19.441 FAPokemon[48269:3200867] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:09:19.441 FAPokemon[48269:3200867] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:09:19.442 FAPokemon[48269:3200867] Unlimited access to network resources
+2015-06-25 11:09:19.445 FAPokemon[48269:3200867] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:09:19.565 FAPokemon[48269:3200867] Resetting plugins due to page load.
+2015-06-25 11:09:19.718 FAPokemon[48269:3200867] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/20FFF7B2-58A2-41F5-BAEA-84587F585D9C/FAPokemon.app/www/index.html#/
+2015-06-25 11:11:16.700 FAPokemon[48269:3202282] Terminating since there is no system app.
+2015-06-25 11:11:32.050 FAPokemon[48581:3203240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/17F593AD-7C2E-4258-B440-EB0091C17148/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:11:32.150 FAPokemon[48581:3203240] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:11:32.150 FAPokemon[48581:3203240] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:11:32.151 FAPokemon[48581:3203240] Unlimited access to network resources
+2015-06-25 11:11:32.153 FAPokemon[48581:3203240] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:11:32.275 FAPokemon[48581:3203240] Resetting plugins due to page load.
+2015-06-25 11:11:32.424 FAPokemon[48581:3203240] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/13039171-DA10-43A4-87D8-5912D0CD4124/FAPokemon.app/www/index.html#/
+2015-06-25 11:16:59.347 FAPokemon[48872:3207228] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/CF3D2D27-F60E-4BF7-BB65-A883F5B9C62B/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:16:59.408 FAPokemon[48872:3207228] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:16:59.408 FAPokemon[48872:3207228] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:16:59.410 FAPokemon[48872:3207228] Unlimited access to network resources
+2015-06-25 11:16:59.412 FAPokemon[48872:3207228] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:16:59.531 FAPokemon[48872:3207228] Resetting plugins due to page load.
+2015-06-25 11:16:59.663 FAPokemon[48872:3207228] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/8CB535EF-5A20-402A-B356-F29C1716FB03/FAPokemon.app/www/index.html#/
+2015-06-25 11:27:29.474 FAPokemon[49176:3213814] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/139ADF1C-D71C-422C-AE8A-43EE504AD538/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:27:29.524 FAPokemon[49176:3213814] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:27:29.524 FAPokemon[49176:3213814] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:27:29.525 FAPokemon[49176:3213814] Unlimited access to network resources
+2015-06-25 11:27:29.527 FAPokemon[49176:3213814] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:27:29.643 FAPokemon[49176:3213814] Resetting plugins due to page load.
+2015-06-25 11:27:29.759 FAPokemon[49176:3213814] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/E8B139DB-6CE2-4E5A-83F5-A0E80BD339C3/FAPokemon.app/www/index.html#/
+2015-06-25 11:28:42.419 FAPokemon[49441:3215507] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/550991AA-9EEE-4BD0-8279-B134BBD2B579/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:28:42.488 FAPokemon[49441:3215507] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:28:42.488 FAPokemon[49441:3215507] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:28:42.490 FAPokemon[49441:3215507] Unlimited access to network resources
+2015-06-25 11:28:42.491 FAPokemon[49441:3215507] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:28:42.604 FAPokemon[49441:3215507] Resetting plugins due to page load.
+2015-06-25 11:28:42.724 FAPokemon[49441:3215507] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/AA963FCB-7115-4FAF-97A0-3ACDA040ED53/FAPokemon.app/www/index.html#/
+2015-06-25 11:29:05.228 FAPokemon[49692:3216289] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/E6FEF6A0-51E8-4292-A8E7-7FC7FD067FF1/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:29:05.301 FAPokemon[49692:3216289] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:29:05.301 FAPokemon[49692:3216289] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:29:05.302 FAPokemon[49692:3216289] Unlimited access to network resources
+2015-06-25 11:29:05.305 FAPokemon[49692:3216289] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:29:05.417 FAPokemon[49692:3216289] Resetting plugins due to page load.
+2015-06-25 11:29:05.534 FAPokemon[49692:3216289] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/3B54DF78-C67E-4C1D-9DD0-A81C8ED7A034/FAPokemon.app/www/index.html#/
+2015-06-25 11:29:39.728 FAPokemon[49945:3217089] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/B64D4428-98F7-468C-A0E3-73E0241D6E9F/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:29:39.806 FAPokemon[49945:3217089] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:29:39.807 FAPokemon[49945:3217089] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:29:39.808 FAPokemon[49945:3217089] Unlimited access to network resources
+2015-06-25 11:29:39.810 FAPokemon[49945:3217089] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:29:39.910 FAPokemon[49945:3217089] Resetting plugins due to page load.
+2015-06-25 11:29:40.032 FAPokemon[49945:3217089] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/7C0D365C-EB1B-4657-912A-E0007B9B61B5/FAPokemon.app/www/index.html#/
+2015-06-25 11:30:51.382 FAPokemon[50441:3219200] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/11281619-F98C-4D53-AEA8-52D6D8B66F26/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:30:51.432 FAPokemon[50441:3219200] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:30:51.432 FAPokemon[50441:3219200] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:30:51.433 FAPokemon[50441:3219200] Unlimited access to network resources
+2015-06-25 11:30:51.435 FAPokemon[50441:3219200] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:30:51.554 FAPokemon[50441:3219200] Resetting plugins due to page load.
+2015-06-25 11:30:51.688 FAPokemon[50441:3219200] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/1FB6E224-75C3-428C-9999-C73A52817E1E/FAPokemon.app/www/index.html#/
+2015-06-25 11:31:27.378 FAPokemon[50692:3220281] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/9B50DD65-C3FA-4791-B08F-C25A3274FC30/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:31:27.427 FAPokemon[50692:3220281] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:31:27.427 FAPokemon[50692:3220281] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:31:27.428 FAPokemon[50692:3220281] Unlimited access to network resources
+2015-06-25 11:31:27.430 FAPokemon[50692:3220281] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:31:27.549 FAPokemon[50692:3220281] Resetting plugins due to page load.
+2015-06-25 11:31:27.674 FAPokemon[50692:3220281] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/72F1A984-134D-4947-835C-F2CB94F07FAD/FAPokemon.app/www/index.html#/
+2015-06-25 11:35:18.253 FAPokemon[50962:3223149] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Data/Application/7D67D31F-E2E8-48F9-8E08-44290FFBB247/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:35:18.313 FAPokemon[50962:3223149] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-25 11:35:18.313 FAPokemon[50962:3223149] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:35:18.314 FAPokemon[50962:3223149] Unlimited access to network resources
+2015-06-25 11:35:18.316 FAPokemon[50962:3223149] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:35:18.445 FAPokemon[50962:3223149] Resetting plugins due to page load.
+2015-06-25 11:35:18.684 FAPokemon[50962:3223149] Finished load of: file:///Users/DaveVoyles/Library/Developer/CoreSimulator/Devices/1B304432-C7B2-41D6-84C1-8EAE0B7BCE8C/data/Containers/Bundle/Application/7B1872AC-A65F-4D30-83D7-88F61662FC00/FAPokemon.app/www/index.html#/
