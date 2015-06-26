@@ -295,9 +295,18 @@ The error reads "Couldn't get Pokemon from the Database" (the Database part is o
 ### Using Safari's remote debugger
 Apple's Safari browser allows us to create a remote connection to the iOS Simulator and debug our Cordova app, becuase the app is running within a webview in iOS. 
 
-This article explains [how to remote debug using your physical device](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/), but we only need to debug via the simulator, so follow the second set of instructions. 
+In short, open up Safari in OS X, and navigate to **Safari -> Preferences ->  Advanced**, check the *Show Develop Menu* in the menu bar checkbox. This article explains [how to remote debug using your physical device](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/), as well. 
 
-In short, open up Safari in OS X, and navigate to **Preferences ->  Advanced**, check the *Show Develop Menu* in the menu bar checkbox.
+Let's emulate the app in iOS again, and we can connect the remote debugger. 
+
+```
+cordova emulate iOS
+```
+
+The iOS simulator should be up again. At the top of your Safari window, you will see a new tab for *Develop*. cick on **Develop -> iOS Simlator -> Index.html** and you'll see the Web Inspector window pop-up.  
+
+![](https://dl.dropboxusercontent.com/s/8vfrdxy7fzq32hz/Screenshot%202015-06-26%2017.11.05.png?dl=0)
+
 
 
 ----------
