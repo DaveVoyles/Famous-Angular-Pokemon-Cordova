@@ -183,9 +183,105 @@ Copy the folders from our downloaded web project into www (*images, partials, sc
 
 Many of these folders mean the same thing (ex: Style & css or Scripts and js), but I wanted to keep with the naming convention that I had for the previous project. It doesn't matter what you name the folder, as long as you correct the references to those files within your index.html file. So if we move a file from the *css* folder and place it in the *styles* folder, we need to make sure that we also update our *index.html* file which is pointing to that file!
 
+#### Copying files between folders
+1. Copy *index.js* from *bu_js* into the *scripts* folder
+2. Copy *logo.png* from *bu_img* into the *images* folder
+3. Copy *index.css* from *bu_css_ into the *styles* folder
+
+You can now delete the folders with the *bu_* prefix, as well as *bu_index.html*. Your folder structure should now look like this:
+
+```
+- bower_components
+- www
+    - images
+    - partials
+    - scripts
+    - styles
+    - index.html
+ - config.xml
+```
+
+#### Fixing the references within *index.html*
+Since we've moved our css and js files from their original location in the Cordova project, we need to update their location (refernce to them) within our index.html file. They should now read:
+
+```
+<link rel="stylesheet" type="text/css" href="styles/index.css">
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="scripts/index.js"></script>
+```
+
+I know what you're thinking: 
+"Where did *cordova.js* come from? I don't see that file!"
+
+That's because Cordova actually generates that file for us when we build the project, and it then places it in the folder for us. We won't ever see it.
+
+Your index.html should now look like this:
+
+``` html
+<!doctype html>
+<html class="no-js" ng-app="famousAngularStarter">
+  <head>
+    <meta charset="utf-8">
+    <title>Famo.us/Angular</title>
+
+    <!-- Cordova --> 
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' http://192.168.1.2:1337 data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src http://192.168.1.2:1337 'self' 'unsafe-inline'; media-src *">
+    <meta name="format-detection"              content="telephone=no">
+    <meta name="msapplication-tap-highlight"   content="no">
+    <meta name="viewport"                      content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <meta name="description"                   content="">
+    <meta name="viewport"                      content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:css({.tmp,app}) styles/main.css -->
+    <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
+    <link rel="stylesheet" href="bower_components/famous-angular/dist/famous-angular.css">
+    <!-- Cordova -->
+    <link rel="stylesheet" type="text/css" href="styles/index.css">
+
+  </head>
+  <body>
+
+    <div ui-view></div>
+
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.js"></script>
+    <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+
+    <script src="bower_components/underscore/underscore.js"></script>
+    <script src="bower_components/famous/famous-global.js"></script>
+    <script src="bower_components/famous-angular/dist/famous-angular.js"></script>
 
 
-    
+    <!-- build:js({app,.tmp}) scripts/main.js -->
+    <script src="scripts/famousAngularStarter.js"></script>
+    <script src="scripts/main/main-ctrl.js"></script>
+    <script src="scripts/main/pokemon.js"></script> 
+    <!-- inject:partials -->
+    <!-- Cordova --> 
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="scripts/index.js"></script>
+    <!-- endinject -->
+    <!-- endbuild -->
+
+  </body>
+</html>
+```
+
+### Security changes
+
+
 
 
 ----------
