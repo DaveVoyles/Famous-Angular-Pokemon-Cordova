@@ -146,7 +146,7 @@ Rename  the Cordova *index.html* in our www folder to *bu_index.html* (short for
 
 We are going to start by copying some of the meta tags from *bu_index.html* Grab these tags and paste them into your *index.html* file:
 
-```
+```html
 <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
 <meta name="format-detection"              content="telephone=no">
 <meta name="msapplication-tap-highlight"   content="no">
@@ -157,7 +157,7 @@ We are going to start by copying some of the meta tags from *bu_index.html* Grab
 
 Do the same for the two Javascript files at the bottom of the body:
 
-```
+```html
 <script type="text/javascript" src="cordova.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
 ```
