@@ -202,7 +202,7 @@ You can now delete the folders with the *bu_* prefix, as well as *bu_index.html*
 ```
 
 #### Fixing the references within *index.html*
-Since we've moved our css and js files from their original location in the Cordova project, we need to update their location (refernce to them) within our index.html file. They should now read:
+Since we've moved our css and js files from their original location in the Cordova project, we need to update their location (reference to them) within our index.html file. They should now read:
 
 ``` html
 <link rel="stylesheet" type="text/css" href="styles/index.css">
