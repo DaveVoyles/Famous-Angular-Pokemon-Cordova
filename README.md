@@ -29,6 +29,7 @@ My goal for this project to illustrate how easily you can create HTML5 / JS proj
 
 ### Requirements
 - Mac (OS X)
+- [Xcode](https://developer.apple.com/xcode/downloads/)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Cordova](https://cordova.apache.org/docs/en/4.0.0/guide_cli_index.md.html) 
 
@@ -63,7 +64,13 @@ And here is how it looks in the iOS simulator via Xcode:
 Port to other platforms.
 
 ---------
+### Building Cordova from the CLI
+The Cordova website offers some [excellent docs](https://cordova.apache.org/docs/en/4.0.0/guide_cli_index.md.html) on how to do this, but I'll dive into a bit of detail to explain how some of it works. 
 
+The first thing you'll want to do is [download the finished web project from my GitHub repo.](https://github.com/DaveVoyles/famous-angular-Pokemon). From there, we'll need to create the app using the Cordova CLI (Command Line Interface). 
+
+### Creating the app
+I'm going to start from the path *Users/DaveVoyles/Documents*. If you aren't comfortable with using the CLI or Terminal in OSX, I'd suggest watching this [6 minute YouTube video](https://www.youtube.com/watch?v=YRuK2cJ9GI4) which provides a great overview and explains some of the terms I'll be using. 
 
 ----------
 ## Resources
