@@ -10,15 +10,14 @@ Sample project for using Famo.us + Angular to create a mobile application
 - *[View the project in your browser](http://famous-angular-pokemon.azurewebsites.net/app/#/)*
 - *[Tutorial for the web portion of the project](https://github.com/DaveVoyles/famous-angular-Pokemon/blob/master/README.md)*
 
-I love high performance JavaScript, and have faith that others will finally come around and understand its true potential someday too. Famo.us allows you to maintain a silky smooth 60 Frames Per Second while having fluid animations on screen. Famo.us does this by utilizing the CSS3 primitive -webkit-transform: matrix3d, which lets the framework compute the composite matrix and skip the browser’s renderer. No plug-in, no download, no hack. By appending this to each DIV, developers can render the composite matrix and go straight to the GPU. 
+I love high performance JavaScript, and have faith that others will finally come around and understand its true potential someday too. Famo.us allows you to maintain a silky smooth 60 Frames Per Second while having fluid animations on screen. Famo.us does this by utilizing the CSS3 primitive -webkit-transform: matrix3d, which lets the framework compute the composite matrix and skip the browser’s renderer. No plug-in, no download, no hack. By appending this to each DIV, developers can render the composite matrix and go straight to the GPU. Even better, we can have this running on mobile devices.
 
-I go more in depth when discussing the ins-and-outs of Famo.us in an [earlier blog post.](http://www.davevoyles.com/creating-a-mobile-app-with-famo-us-and-manifoldjs/) Thanks again to [Zack Brown](https://twitter.com/zackaboo) for all of your assistance with this!
+I go more in depth when discussing the ins-and-outs of Famo.us in an [earlier blog post.](http://www.davevoyles.com/creating-a-mobile-app-with-famo-us-and-manifoldjs/) 
 
 ### By the end of this project you will be able to:
 
-- Understand how Angular works within the context of a Famo.us application
-- Harness the true power of JavaScript and the good parts of HTML5
-- Create smooth animations 
+- Understand how to turn a web application into a hybrid mobile app using Cordova
+- Have a fully functioning iOS app made with Cordova
 
 My goal for this project to illustrate how easily you can create HTML5 / JS projects which work at near native speeds on mobile applications. 
 
