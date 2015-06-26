@@ -307,6 +307,33 @@ The iOS simulator should be up again. At the top of your Safari window, you will
 
 ![](https://dl.dropboxusercontent.com/s/8vfrdxy7fzq32hz/Screenshot%202015-06-26%2017.11.05.png?dl=0)
 
+Now hit the *Next* button in the Pokemon app and you'll receive the error again, but let's see what the response from the console is. In the Web Inspector, click on the red ! icon towards the top of the application. This will bring us to the errors generated in the console.
+
+![](https://dl.dropboxusercontent.com/s/isispm8172c85xz/Screenshot%202015-06-26%2017.15.31.png?dl=0)
+
+This says it all. THe call to the pokemon API is violating the [Content Security Policy](http://www.html5rocks.com/en/tutorials/security/content-security-policy/), which for right now, can only grab information from the files we have stored on the device itself. That's what the 'self' text is telling us.
+
+Let's resolve that by altering our Content Security Policy, which we've set in the head of our index.html file.
+Add the URLs for the pokemon API and the DB.
+
+```html
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+```
+
+Let's emulate the iOS app again.
+
+```
+cordova emulate ios
+```
+
+Now hit the *Next* button and watch as a new Pokemon appears!
+
+![](https://dl.dropboxusercontent.com/s/qh1hhjm37k0ecrm/Screenshot%202015-06-26%2017.21.36.png?dl=0)
+
+### Conclusion
+That's all there is to it. You have a fully functioning Cordova app made for iOS. In the next lession I'll cover how to do this on Windows with Visual Studio, where we can debug Windows Phone, Android, and even iOS. 
+
+
 
 
 ----------
