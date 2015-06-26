@@ -99,6 +99,7 @@ It looks like of funny because I entered *PokemonApp* twice, right? The first ti
 
 ![](https://dl.dropboxusercontent.com/s/mcaybz08cks2ndp/Screenshot%202015-06-26%2010.32.16.png?dl=0)
 
+
 ### Adding the iOS platform
 We've got our first project! But we still need to add inidividual platforms. Let's add iOS right now. 
 
@@ -134,6 +135,28 @@ cordova compile ios
 ```
 
 Finally the *emulate* command tells the simulator from within Xcode to boot up and executes our application.
+
+### Merging content from our web project
+You'll notice that our *www* folder is essentially a website. It's got folders for *css img* and *js*. What we're doing to do here is combine this project with our own.
+
+Rename  the Cordova *index.html* in our www folder to *BUindex.html* (short for Back Up). Copy *index.html* from the project we downloaded earlier, and paste it into the www folder. 
+
+We are going to start by copying some of the meta tags from *BUindex.html* Grab these tags and paste them into your *index.html* file:
+
+```
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+<meta name="format-detection"            content="telephone=no">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="viewport"                    content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+<link rel="stylesheet" type="text/css" href="css/index.css">
+```
+
+Do the same for the two Javascript files at the bottom of the body:
+
+```
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+```
 
 ----------
 ## Resources
