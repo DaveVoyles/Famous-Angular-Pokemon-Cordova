@@ -204,7 +204,7 @@ You can now delete the folders with the *bu_* prefix, as well as *bu_index.html*
 #### Fixing the references within *index.html*
 Since we've moved our css and js files from their original location in the Cordova project, we need to update their location (refernce to them) within our index.html file. They should now read:
 
-```
+``` html
 <link rel="stylesheet" type="text/css" href="styles/index.css">
 <script type="text/javascript" src="cordova.js"></script>
 <script type="text/javascript" src="scripts/index.js"></script>
@@ -225,7 +225,7 @@ Your index.html should now look like this:
     <title>Famo.us/Angular</title>
 
     <!-- Cordova --> 
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' http://192.168.1.2:1337 data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src http://192.168.1.2:1337 'self' 'unsafe-inline'; media-src *">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
     <meta name="format-detection"              content="telephone=no">
     <meta name="msapplication-tap-highlight"   content="no">
     <meta name="viewport"                      content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
@@ -279,9 +279,25 @@ Your index.html should now look like this:
 </html>
 ```
 
-### Security changes
+### Cordova's strict security settings
+You may have noticed that my line for *http-equiv* looks slightly different than yours:
 
+```html
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *"
+```
 
+This is because I added a few references to external URLs, such as the pokeAPI and pokemonDB. If you try to build your project now, it will work up until the point where you try to retreive information from the database.
+
+![](https://dl.dropboxusercontent/s/5ryhvtvak2cn87y/Screenshot%202015-06-26%2012.02.17.png?dl=0)
+
+The error reads "Couldn't get Pokemon from the Database" (the Database part is obscured by the image). This is because of Cordova's strict security settings. Let's try to debug this.
+
+### Using Safari's remote debugger
+Apple's Safari browser allows us to create a remote connection to the iOS Simulator and debug our Cordova app, becuase the app is running within a webview in iOS. 
+
+This article explains [how to remote debug using your physical device](http://moduscreate.com/enable-remote-web-inspector-in-ios-6/), but we only need to debug via the simulator, so follow the second set of instructions. 
+
+In short, open up Safari in OS X, and navigate to **Preferences ->  Advanced**, check the *Show Develop Menu* in the menu bar checkbox.
 
 
 ----------
