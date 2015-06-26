@@ -137,17 +137,20 @@ cordova compile ios
 Finally the *emulate* command tells the simulator from within Xcode to boot up and executes our application.
 
 ### Merging content from our web project
+
+#### Cobmining index.html
 You'll notice that our *www* folder is essentially a website. It's got folders for *css img* and *js*. What we're doing to do here is combine this project with our own.
 
-Rename  the Cordova *index.html* in our www folder to *BUindex.html* (short for Back Up). Copy *index.html* from the project we downloaded earlier, and paste it into the www folder. 
+Rename  the Cordova *index.html* in our www folder to *bu_index.html* (short for Back Up). Copy *index.html* from the project we downloaded earlier, and paste it into the www folder. 
 
-We are going to start by copying some of the meta tags from *BUindex.html* Grab these tags and paste them into your *index.html* file:
+We are going to start by copying some of the meta tags from *bu_index.html* Grab these tags and paste them into your *index.html* file:
 
 ```
 <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
-<meta name="format-detection"            content="telephone=no">
-<meta name="msapplication-tap-highlight" content="no">
-<meta name="viewport"                    content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+<meta name="format-detection"              content="telephone=no">
+<meta name="msapplication-tap-highlight"   content="no">
+<meta name="viewport"                      content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+
 <link rel="stylesheet" type="text/css" href="css/index.css">
 ```
 
@@ -157,6 +160,33 @@ Do the same for the two Javascript files at the bottom of the body:
 <script type="text/javascript" src="cordova.js"></script>
 <script type="text/javascript" src="js/index.js"></script>
 ```
+
+#### Copying over the folders 
+Add the prefix *bu_* to all of the folders found inside of www (css, img, js).
+
+Copy the folders from our downloaded web project into www (*images, partials, scripts, styles, bower_components*). Also grab the *bower_components* folder found outside of the *app* folder. So in the end, you should have two (2) *bower_components* folders, and the structure should look like this:
+
+```
+- bower_components
+- www
+    - bu_css
+    - bu_img
+    - bu_js
+    - bu_index.html
+    - images
+    - partials
+    - scripts
+    - styles
+    - index.html
+ - config.xml
+```
+
+Many of these folders mean the same thing (ex: Style & css or Scripts and js), but I wanted to keep with the naming convention that I had for the previous project. It doesn't matter what you name the folder, as long as you correct the references to those files within your index.html file. So if we move a file from the *css* folder and place it in the *styles* folder, we need to make sure that we also update our *index.html* file which is pointing to that file!
+
+
+
+    
+
 
 ----------
 ## Resources
