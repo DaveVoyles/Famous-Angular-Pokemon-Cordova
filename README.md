@@ -116,6 +116,25 @@ cordova platform add ios
 
 ![](https://dl.dropboxusercontent.com/s/fiedvrswxkcywgb/Screenshot%202015-06-26%2010.36.39.png?dl=0)
 
+We've now got some new items in our platforms folder! One more step and we'll have this project running. Let's emulate the app on iOS:
+
+```
+cordova emulate ios
+```
+
+![](https://dl.dropboxusercontent.com/s/kp60hx7ckjovevc/Screenshot%202015-06-26%2010.45.35.png?dl=0)
+
+You'll see it throw a bunch of text within the terminal. If all went well, we should see **BUILD SUCCEEDED**. This command combines a few steps into one. 
+
+First, it is performing the build process, which is shorthand for:
+
+```
+cordova prepare ios
+cordova compile ios
+```
+
+Finally the *emulate* command tells the simulator from within Xcode to boot up and executes our application.
+
 ----------
 ## Resources
 
