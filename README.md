@@ -72,7 +72,7 @@ The first thing you'll want to do is [download the finished web project from my 
 ### Creating the app
 I'm going to start from the path *Users/DaveVoyles/Documents*. If you aren't comfortable with using the CLI or Terminal in OSX, I'd suggest watching this [6 minute YouTube video](https://www.youtube.com/watch?v=YRuK2cJ9GI4) which provides a great overview and explains some of the terms I'll be using. 
 
-To navigate here you can enter the Change Directory command (cd) in the Terminal, then *drag* the folder you want to start in.
+To navigate here you can enter the Change Directory command (cd) in the Terminal, then *drag* the folder you want to start in:
 
 ```
 cd <drag your folder from the Finder app into here>
@@ -89,7 +89,7 @@ This will create a new directory (folder) at our current location and name it 'F
 ```
 cd FamousCordova
 ```
-Let's actually create the Cordova project now. 
+Let's actually create the Cordova project now: 
 
 ```
 cordova create PokemonApp PokemonApp
@@ -98,6 +98,23 @@ cordova create PokemonApp PokemonApp
 It looks like of funny because I entered *PokemonApp* twice, right? The first time, I am creating a project called "PokemonApp". The second time I enter it, I am entering the display title, which is what you see at the top of your app inside of the iOS emulator. This argument is optional. 
 
 ![](https://dl.dropboxusercontent.com/s/mcaybz08cks2ndp/Screenshot%202015-06-26%2010.32.16.png?dl=0)
+
+### Adding the iOS platform
+We've got our first project! But we still need to add inidividual platforms. Let's add iOS right now. 
+
+First, we need to navigate into the PokemonApp folder:
+
+```
+cd PokemonApp
+```
+
+Now add the iOS platform:
+
+```
+cordova platform add ios
+```
+
+![](https://dl.dropboxusercontent.com/s/fiedvrswxkcywgb/Screenshot%202015-06-26%2010.36.39.png?dl=0)
 
 ----------
 ## Resources
