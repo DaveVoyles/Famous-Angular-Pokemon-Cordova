@@ -63,3 +63,20 @@ And here is how it looks in the iOS simulator via Xcode:
 Port to other platforms.
 
 ---------
+
+
+----------
+## Resources
+
+- [Famo.us Slackchat ](http://famous.org/support/)
+- [BizSpark, for free MSFT dev licenses and web hosting](http://davevoyles.azurewebsites.net/bizspark-free-software-cloud-services-o/)
+- [E-mail me with questions](mailto:Dvoyles@microsoft.com "Dvoyles@microsoft.com")
+
+----------
+
+##Change Log
+###v1.0.0
+Initial build of the app
+
+
+  [1]: http://www.daveVoyles.com "My website"
