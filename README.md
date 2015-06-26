@@ -138,7 +138,7 @@ Finally the *emulate* command tells the simulator from within Xcode to boot up a
 
 ### Merging content from our web project
 
-#### Cobmining index.html
+#### Combining index.html
 You'll notice that our *www* folder is essentially a website. It's got folders for *css img* and *js*. What we're doing to do here is combine this project with our own.
 
 Rename  the Cordova *index.html* in our www folder to *bu_index.html* (short for Back Up). Copy *index.html* from the project we downloaded earlier, and paste it into the www folder. 
@@ -288,7 +288,7 @@ You may have noticed that my line for *http-equiv* looks slightly different than
 
 This is because I added a few references to external URLs, such as the pokeAPI and pokemonDB. If you try to build your project now, it will work up until the point where you try to retreive information from the database.
 
-![](https://dl.dropboxusercontent/s/5ryhvtvak2cn87y/Screenshot%202015-06-26%2012.02.17.png?dl=0)
+![](https://dl.dropboxusercontent.com/s/5ryhvtvak2cn87y/Screenshot%202015-06-26%2012.02.17.png?dl=0)
 
 The error reads "Couldn't get Pokemon from the Database" (the Database part is obscured by the image). This is because of Cordova's strict security settings. Let's try to debug this.
 
