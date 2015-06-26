@@ -6,7 +6,7 @@ Sample project for using Famo.us + Angular to create a mobile application
 ----------
 ### Objective
 
-- *[Download the finished version of this tutorial. Open with Xcode]*(https://github.com/DaveVoyles/Famous-Angular-Pokemon-Cordova)
+- *[Download the finished version of this tutorial. Open with Xcode](https://github.com/DaveVoyles/Famous-Angular-Pokemon-Cordova)*
 - *[View the project in your browser](http://famous-angular-pokemon.azurewebsites.net/app/#/)*
 - *[Tutorial for the web portion of the project](https://github.com/DaveVoyles/famous-angular-Pokemon/blob/master/README.md)*
 
