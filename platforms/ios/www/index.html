@@ -5,7 +5,7 @@
     <title>Famo.us/Angular</title>
 
     <!-- Cordova --> 
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' http://192.168.1.2:1337 data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src http://192.168.1.2:1337 'self' 'unsafe-inline'; media-src *">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: http://pokeapi.co/ http://img.pokemondb.net gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
     <meta name="format-detection"              content="telephone=no">
     <meta name="msapplication-tap-highlight"   content="no">
     <meta name="viewport"                      content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
@@ -42,8 +42,7 @@
     <script src="bower_components/underscore/underscore.js"></script>
     <script src="bower_components/famous/famous-global.js"></script>
     <script src="bower_components/famous-angular/dist/famous-angular.js"></script>
-<!--    <script src="http://localhost:1337/vorlon.js"></script> -->
-    <script src="http://192.168.1.2:1337/vorlon.js"></script> 
+
 
     <!-- build:js({app,.tmp}) scripts/main.js -->
     <script src="scripts/famousAngularStarter.js"></script>
